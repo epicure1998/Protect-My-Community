@@ -1,5 +1,5 @@
 # Protect my community
-This is a application which will help the english learners to practice hyphenation, the project is divided into three modules "Word List", "Game" and "Ranking list". Several word list which is made of a list of word entry will be presented at "Word List" module, each word entry contains two parameter, a original word and its corresponding hyphenated word, for example, the original word is "rejoice", so the corresponding hyphenated word is "re-joice". A game will be embedded at this project at "game" module. Moreover the player's record after finishing each game will be saved at "ranking list" module.
+This is an application which will help the english learners to practice hyphenation, the project is divided into three modules "Word List", "Game" and "Ranking list". Several word list which is made of a list of word entry will be presented at "Word List" module, each word entry contains two parameter, a original word and its corresponding hyphenated word, for example, the original word is "rejoice", so the corresponding hyphenated word is "re-joice". A game will be embedded at this project at "game" module. Moreover the player's record after finishing each game will be saved at "ranking list" module.
 
 The game was displayed at my server, check it out! -> [Protect My Community](pingguyitailang.top)
 
