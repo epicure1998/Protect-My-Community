@@ -3,6 +3,9 @@ This is a application which will help the english learners to practice hyphenati
 
 The game was displayed at my server, check it out! -> [Protect My Community](pingguyitailang.top)
 
+* **Main Page**: ![Main Page](./MainPage.png)
+
+* **Game Page**: ![Game Page](./gamepage.png)
 ## Getting start
 These instructions will get you a copy of the project up and running on your local machine for development and testing purpose. See deployment for notes on how to deploy the project on a live system.
 ### Prerequisites
