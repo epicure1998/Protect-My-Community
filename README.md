@@ -32,5 +32,5 @@ mvn spring-boot:run
 ## Enter the project
 After you run the project locally, you can open your browser and input the website http://localhost:8080 to enter the main page of the application.
 
-##Author
+## Author
 * **Qiu Mengke** -[See more at github](https://github.com/epicure1998)
