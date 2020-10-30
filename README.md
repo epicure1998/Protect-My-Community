@@ -15,6 +15,7 @@ For building and running the application you need:
 - [Maven 3](https://maven.apache.org)
 - [Mysql 8](https://www.mysql.com/downloads/)
 - [Redis]()
+- [Springboot]
 ### Running the application locally
 Before running the application locally, several steps need to be followed：
 
